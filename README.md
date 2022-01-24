@@ -1,2 +1,2 @@
 # nodeprograms
-node programs to lear
+node programs to learn
