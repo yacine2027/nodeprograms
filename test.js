@@ -6,4 +6,12 @@ const getUser = ()=> {
     ]
 }
 
+function getAllUsers() {
+    a = 4
+    console.log(a)
+}
+
+
 console.log(getUser())
+getAllUsers()
+console.log(a)
